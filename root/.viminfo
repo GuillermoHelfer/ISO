@@ -1,0 +1,1073 @@
+# Vim 8.2 gener√≥ este archivo "viminfo".
+# Puede editarlo, ¬°s√≥lo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribi√≥ este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# √öltimo Patr√≥n de b√∫squeda:
+~MSle0~/\<v1\>
+
+# √öltima cadena de sustituci√≥n:
+$
+
+# Historia de L√≠nea de √≥rdenes (de lo m√°s nuevo a lo m√°s antiguo):
+:q
+|2,0,1667228529,,"q"
+:wq
+|2,0,1666906987,,"wq"
+:help P
+|2,0,1666906328,,"help P"
+:help p
+|2,0,1666906313,,"help p"
+:help v
+|2,0,1666906304,,"help v"
+:help V
+|2,0,1666906298,,"help V"
+:help
+|2,0,1666906267,,"help"
+:paste
+|2,0,1666906241,,"paste"
+:V
+|2,0,1666906237,,"V"
+:v
+|2,0,1666906220,,"v"
+:set mouse=a
+|2,0,1666906200,,"set mouse=a"
+:p
+|2,0,1666906157,,"p"
+:P
+|2,0,1666906111,,"P"
+:WQ
+|2,0,1665524949,,"WQ"
+:q!
+|2,0,1665412719,,"q!"
+:w
+|2,0,1662744910,,"w"
+
+# Historia de Cadena de b√∫squeda (de lo m√°s nuevo a lo m√°s antiguo):
+? \<v1\>
+|2,1,1665527423,,"\\<v1\\>"
+? @$
+|2,1,1664277951,,"@$"
+
+# Historia de Expresi√≥n (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Historia de L√≠nea de entrada (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Historia de Debug Line (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Registros:
+"q	CHAR	0
+	11Ä˝aÄ˝aÄ˝aÄ˝aÄ˝akilln
+|3,0,26,0,1,0,1666906132,"11Ä˝aÄ˝aÄ˝aÄ˝aÄ˝akill\n"
+""-	CHAR	0
+	-
+|3,1,36,0,1,0,1665416119,"-"
+
+# Marcas en el archivo:
+'0  43  0  ~/practica-shell-script/ejercicio20.sh
+|4,48,43,0,1667228529,"~/practica-shell-script/ejercicio20.sh"
+'1  1  0  ~/practica-shell-script/ejercicio21.sh
+|4,49,1,0,1667228457,"~/practica-shell-script/ejercicio21.sh"
+'2  14  5  ~/practica-shell-script/ejercicio22.sh
+|4,50,14,5,1667228446,"~/practica-shell-script/ejercicio22.sh"
+'3  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,51,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+'4  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,52,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+'5  14  0  ~/practica4/ejerciciob
+|4,53,14,0,1666906555,"~/practica4/ejerciciob"
+'6  1  0  ~/practica-shell-script/ejercicio25.sh
+|4,54,1,0,1665529766,"~/practica-shell-script/ejercicio25.sh"
+'7  8  7  ~/practica-shell-script/ejercicio23.sh
+|4,55,8,7,1665527859,"~/practica-shell-script/ejercicio23.sh"
+'8  8  26  ~/practica-shell-script/ejercicio23.sh
+|4,56,8,26,1665527840,"~/practica-shell-script/ejercicio23.sh"
+'9  10  24  ~/practica-shell-script/ejercicio23.sh
+|4,57,10,24,1665527793,"~/practica-shell-script/ejercicio23.sh"
+
+# Lista de saltos (el m√°s reciente va primero):
+-'  43  0  ~/practica-shell-script/ejercicio20.sh
+|4,39,43,0,1667228529,"~/practica-shell-script/ejercicio20.sh"
+-'  25  1  ~/practica-shell-script/ejercicio20.sh
+|4,39,25,1,1667228465,"~/practica-shell-script/ejercicio20.sh"
+-'  1  0  ~/practica-shell-script/ejercicio21.sh
+|4,39,1,0,1667228457,"~/practica-shell-script/ejercicio21.sh"
+-'  1  0  ~/practica-shell-script/ejercicio21.sh
+|4,39,1,0,1667228457,"~/practica-shell-script/ejercicio21.sh"
+-'  14  5  ~/practica-shell-script/ejercicio22.sh
+|4,39,14,5,1667228446,"~/practica-shell-script/ejercicio22.sh"
+-'  14  5  ~/practica-shell-script/ejercicio22.sh
+|4,39,14,5,1667228446,"~/practica-shell-script/ejercicio22.sh"
+-'  14  5  ~/practica-shell-script/ejercicio22.sh
+|4,39,14,5,1667228446,"~/practica-shell-script/ejercicio22.sh"
+-'  14  5  ~/practica-shell-script/ejercicio22.sh
+|4,39,14,5,1667228446,"~/practica-shell-script/ejercicio22.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  1  0  ~/practica4/parte2/ejerciciob.sh
+|4,39,1,0,1666908302,"~/practica4/parte2/ejerciciob.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  13  9  ~/practica4/parte2/ejercicio2.sh
+|4,39,13,9,1666906987,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  1  0  ~/practica4/parte2/ejercicio2.sh
+|4,39,1,0,1666906621,"~/practica4/parte2/ejercicio2.sh"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  14  0  ~/practica4/ejerciciob
+|4,39,14,0,1666906555,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+-'  1  0  ~/practica4/ejerciciob
+|4,39,1,0,1666906157,"~/practica4/ejerciciob"
+
+# Historia de las marcas en los archivos (de la m√°s reciente a la m√°s antigua):
+
+> ~/practica-shell-script/ejercicio20.sh
+	*	1667228521	0
+	"	43	0
+	^	25	2
+	.	9	41
+	+	10	7
+	+	5	24
+	+	10	29
+	+	16	0
+	+	9	34
+	+	11	8
+	+	10	25
+	+	9	31
+	+	5	19
+	+	15	35
+	+	16	0
+	+	15	8
+	+	16	0
+	+	9	26
+	+	10	20
+	+	15	28
+	+	20	1
+	+	9	28
+	+	10	22
+	+	15	20
+	+	20	0
+	+	19	7
+	+	20	1
+	+	26	40
+	+	28	2
+	+	26	18
+	+	30	28
+	+	29	18
+	+	50	3
+	+	33	4
+	+	49	4
+	+	22	0
+	+	19	55
+	+	15	28
+	+	10	31
+	+	9	26
+	+	5	15
+	+	11	57
+	+	5	62
+	+	15	22
+	+	19	19
+	+	26	34
+	+	35	12
+	+	46	0
+	+	35	4
+	+	11	32
+	+	35	6
+	+	30	0
+	+	37	0
+	+	36	3
+	+	38	18
+	+	43	0
+	+	40	2
+	+	45	4
+	+	48	3
+	+	27	0
+	+	47	4
+	+	24	11
+	+	5	19
+	+	15	19
+	+	19	16
+	+	11	13
+	+	10	29
+	+	9	35
+	+	5	17
+	+	15	6
+	+	15	50
+	+	15	54
+	+	5	5
+	+	9	17
+	+	10	11
+	+	32	9
+	+	38	9
+	+	16	0
+	+	15	7
+	+	5	8
+	+	4	14
+	+	8	13
+	+	9	26
+	+	10	20
+	+	19	21
+	+	15	21
+	+	41	10
+	+	38	10
+	+	4	4
+	+	8	3
+	+	14	5
+	+	18	5
+	+	5	15
+	+	5	0
+	+	9	33
+	+	10	20
+	+	15	4
+	+	5	1
+	+	10	7
+	+	9	13
+	+	19	17
+	+	41	8
+	+	38	9
+	+	9	41
+
+> ~/practica-shell-script/ejercicio21.sh
+	*	1667228456	0
+	"	1	0
+
+> ~/practica-shell-script/ejercicio22.sh
+	*	1667228443	0
+	"	14	5
+	^	14	6
+	.	14	0
+	+	12	22
+	+	13	14
+	+	10	1
+	+	5	12
+	+	10	3
+	+	4	11
+	+	10	0
+	+	13	24
+	+	9	20
+	+	13	21
+	+	9	20
+	+	7	12
+	+	13	22
+	+	13	16
+	+	13	0
+	+	10	1
+	+	14	5
+	+	13	23
+	+	7	20
+	+	13	12
+	+	7	20
+	+	8	5
+	+	7	26
+	+	13	22
+	+	7	18
+	+	4	13
+	+	7	21
+	+	9	11
+	+	10	0
+	+	14	0
+
+> ~/practica4/parte2/ejerciciob.sh
+	*	1666907014	0
+	"	1	0
+
+> ~/practica4/parte2/ejercicio2.sh
+	*	1666906985	0
+	"	13	9
+	^	13	10
+	.	13	9
+	+	14	0
+	+	11	1
+	+	10	1
+	+	9	1
+	+	10	14
+	+	13	9
+
+> ~/practica4/ejerciciob
+	*	1666906554	0
+	"	14	0
+	^	14	1
+	.	12	18
+	+	1	18
+	+	14	0
+	+	13	9
+	+	4	9
+	+	12	18
+
+> /usr/share/vim/vim82/doc/change.txt
+	*	1666906332	0
+	"	1059	7
+
+> /usr/share/vim/vim82/doc/visual.txt
+	*	1666906304	0
+	"	61	6
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1666906290	0
+	"	1	0
+
+> ~/practica-shell-script/ejercicio25.sh
+	*	1665528840	0
+	"	1	0
+
+> ~/practica-shell-script/ejercicio23.sh
+	*	1665527858	0
+	"	8	7
+	^	8	8
+	.	8	7
+	+	2	90
+	+	13	60
+	+	3	18
+	+	8	19
+	+	11	49
+	+	9	7
+	+	3	11
+	+	9	3
+	+	11	68
+	+	13	60
+	+	11	72
+	+	11	97
+	+	12	11
+	+	11	101
+	+	13	29
+	+	13	19
+	+	13	38
+	+	13	54
+	+	13	59
+	+	13	54
+	+	13	58
+	+	13	13
+	+	8	19
+	+	13	5
+	+	13	58
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	71
+	+	11	0
+	+	9	0
+	+	8	0
+	+	3	0
+	+	3	5
+	+	5	17
+	+	6	15
+	+	8	13
+	+	11	71
+	+	12	0
+	+	11	75
+	+	4	10
+	+	10	6
+	+	12	16
+	+	13	0
+	+	10	23
+	+	4	5
+	+	4	4
+	+	5	4
+	+	6	16
+	+	5	17
+	+	9	31
+	+	10	21
+	+	5	0
+	+	10	33
+	+	12	12
+	+	8	22
+	+	10	25
+	+	8	7
+
+> ~/practica-shell-script/ejercicio16.sh
+	*	1665523251	0
+	"	14	12
+	^	14	13
+	.	14	7
+	+	14	12
+	+	13	38
+	+	11	1
+	+	14	45
+	+	11	0
+	+	13	30
+	+	11	36
+	+	12	0
+	+	11	35
+	+	13	26
+	+	14	13
+	+	13	38
+	+	14	7
+
+> ~/practica-shell-script/ejercicio19.sh
+	*	1665438632	0
+	"	12	4
+	^	12	5
+	.	13	0
+	+	4	17
+	+	4	0
+	+	7	10
+	+	6	14
+	+	7	16
+	+	16	1
+	+	13	16
+	+	12	2
+	+	15	19
+	+	13	0
+
+> ~/practica-shell-script/ejercicio18.sh
+	*	1665435386	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	4	6
+	+	3	7
+	+	4	18
+	+	7	3
+	+	5	2
+	+	4	18
+	+	3	7
+	+	5	9
+	+	3	14
+	+	4	0
+	+	5	91
+	+	5	47
+	+	5	56
+	+	5	42
+	+	5	50
+	+	3	0
+	+	3	7
+	+	5	84
+	+	5	91
+	+	6	8
+	+	5	33
+	+	4	6
+	+	4	9
+	+	5	39
+	+	5	90
+	+	5	0
+	+	5	30
+	+	4	19
+	+	5	33
+	+	4	20
+	+	6	0
+	+	8	0
+	+	10	0
+	+	7	4
+	+	8	0
+	+	9	0
+
+> ~/practica-shell-script/ejercicio17.sh
+	*	1665433806	0
+	"	11	57
+	^	11	58
+	.	11	3
+	+	4	0
+	+	5	52
+	+	9	41
+	+	12	0
+	+	11	3
+
+> ~/practica-shell-script/ejercicio15.sh
+	*	1665430802	0
+	"	19	3
+	^	19	4
+	.	20	0
+	+	11	28
+	+	16	40
+	+	19	3
+	+	18	41
+	+	20	0
+
+> ~/practica-shell-script/ejercicio14.sh
+	*	1665426569	0
+	"	24	0
+	^	24	0
+	.	20	14
+	+	1	11
+	+	5	366
+	+	5	421
+	+	5	415
+	+	5	439
+	+	5	348
+	+	5	450
+	+	5	361
+	+	5	451
+	+	5	352
+	+	5	450
+	+	5	418
+	+	5	342
+	+	5	522
+	+	5	514
+	+	5	542
+	+	5	12
+	+	5	341
+	+	5	21
+	+	5	551
+	+	5	31
+	+	5	340
+	+	5	45
+	+	5	290
+	+	5	282
+	+	5	337
+	+	5	28
+	+	5	40
+	+	5	248
+	+	5	193
+	+	5	57
+	+	5	116
+	+	5	189
+	+	5	245
+	+	5	113
+	+	5	85
+	+	5	72
+	+	5	97
+	+	5	104
+	+	5	126
+	+	5	39
+	+	5	171
+	+	5	245
+	+	5	236
+	+	5	244
+	+	5	328
+	+	6	0
+	+	5	49
+	+	5	131
+	+	5	47
+	+	5	185
+	+	15	120
+	+	15	130
+	+	15	126
+	+	15	38
+	+	15	92
+	+	15	101
+	+	15	43
+	+	15	99
+	+	15	102
+	+	15	45
+	+	20	25
+	+	20	22
+	+	30	3
+	+	21	15
+	+	20	7
+	+	23	3
+	+	22	9
+	+	28	24
+	+	29	2
+	+	5	10
+	+	11	31
+	+	20	14
+
+> ~/practica-shell-script/ejercicio13-c.sh
+	*	1665416917	0
+	"	20	2
+	^	20	3
+	.	19	7
+	+	3	98
+	+	6	232
+	+	6	254
+	+	6	182
+	+	6	195
+	+	6	181
+	+	6	47
+	+	6	33
+	+	6	77
+	+	6	35
+	+	6	49
+	+	6	35
+	+	6	26
+	+	6	24
+	+	6	35
+	+	6	30
+	+	6	42
+	+	6	30
+	+	6	48
+	+	6	66
+	+	6	74
+	+	6	79
+	+	6	105
+	+	6	80
+	+	6	81
+	+	6	38
+	+	6	87
+	+	6	33
+	+	6	79
+	+	6	101
+	+	6	76
+	+	6	102
+	+	6	80
+	+	6	76
+	+	6	12
+	+	6	24
+	+	6	32
+	+	6	75
+	+	6	74
+	+	6	78
+	+	6	89
+	+	6	178
+	+	6	177
+	+	6	141
+	+	6	73
+	+	6	30
+	+	6	94
+	+	6	23
+	+	6	29
+	+	6	19
+	+	6	23
+	+	6	87
+	+	6	254
+	+	6	18
+	+	6	0
+	+	6	27
+	+	6	80
+	+	6	69
+	+	7	0
+	+	21	0
+	+	20	2
+	+	27	10
+	+	10	15
+	+	7	15
+	+	10	17
+	+	16	18
+	+	14	27
+	+	18	9
+	+	13	17
+	+	19	7
+
+> ~/practica-shell-script/ejercicio13-b.sh
+	*	1665412803	0
+	"	17	6
+	^	17	7
+	.	17	7
+	+	18	3
+	+	8	13
+	+	10	15
+	+	11	14
+	+	14	0
+	+	13	2
+	+	14	14
+	+	15	3
+	+	14	2
+	+	13	1
+	+	16	4
+	+	4	12
+	+	5	0
+	+	18	0
+	+	5	0
+	+	4	14
+	+	6	14
+	+	4	51
+	+	16	0
+	+	4	46
+	+	17	7
+
+> ~/practica-shell-script/ejercicio113-b.sh
+	*	1665412712	0
+	"	1	0
+
+> ~/practica-shell-script/ejercicio13-a.sh
+	*	1665285496	0
+	"	7	7
+	^	7	8
+	.	6	9
+	+	4	27
+	+	8	3
+	+	5	4
+	+	2	95
+	+	3	0
+	+	6	37
+	+	5	12
+	+	6	38
+	+	6	14
+	+	6	49
+	+	7	7
+	+	4	24
+	+	6	10
+	+	5	5
+	+	7	0
+	+	5	7
+	+	6	9
+
+> ~/practica-shell-script/ejercicio12-c.sh
+	*	1665285227	0
+	"	78	19
+	^	78	20
+	.	78	19
+	+	75	54
+	+	75	53
+	+	73	0
+	+	49	53
+	+	49	1
+	+	48	8
+	+	49	20
+	+	72	6
+	+	72	41
+	+	72	29
+	+	72	19
+	+	72	38
+	+	72	80
+	+	72	77
+	+	72	128
+	+	72	125
+	+	72	166
+	+	72	149
+	+	72	165
+	+	78	26
+	+	72	45
+	+	72	79
+	+	54	44
+	+	57	2
+	+	55	49
+	+	56	7
+	+	72	39
+	+	60	6
+	+	66	1
+	+	63	0
+	+	72	5
+	+	65	1
+	+	64	0
+	+	63	1
+	+	62	0
+	+	61	1
+	+	60	0
+	+	70	0
+	+	69	1
+	+	72	5
+	+	73	0
+	+	34	13
+	+	34	12
+	+	46	0
+	+	43	2
+	+	41	1
+	+	40	27
+	+	42	7
+	+	39	0
+	+	38	2
+	+	35	20
+	+	37	7
+	+	45	21
+	+	11	15
+	+	11	0
+	+	49	5
+	+	40	30
+	+	45	5
+	+	45	12
+	+	31	5
+	+	32	0
+	+	21	4
+	+	11	10
+	+	12	0
+	+	78	19
+
+> ~/ejercicio13-a.sh
+	*	1665284769	0
+	"	1	0
+
+> ~/practica-shell-script/ejercicio12-a.sh
+	*	1665278116	0
+	"	44	12
+	^	44	13
+	.	30	5
+	+	4	41
+	+	42	56
+	+	41	41
+	+	44	47
+	+	42	53
+	+	46	51
+	+	41	45
+	+	42	79
+	+	45	13
+	+	46	14
+	+	41	47
+	+	42	81
+	+	45	20
+	+	42	69
+	+	41	41
+	+	40	10
+	+	41	12
+	+	38	0
+	+	4	8
+	+	13	24
+	+	14	6
+	+	10	0
+	+	6	15
+	+	6	18
+	+	6	16
+	+	7	48
+	+	9	2
+	+	14	13
+	+	41	18
+	+	26	0
+	+	25	13
+	+	27	0
+	+	37	0
+	+	36	14
+	+	41	12
+	+	41	13
+	+	42	54
+	+	42	56
+	+	45	13
+	+	46	45
+	+	44	44
+	+	4	7
+	+	17	8
+	+	28	17
+	+	6	13
+	+	19	16
+	+	30	13
+	+	13	16
+	+	12	10
+	+	13	9
+	+	24	11
+	+	35	4
+	+	24	4
+	+	13	4
+	+	24	13
+	+	6	9
+	+	19	9
+	+	30	9
+	+	6	5
+	+	19	15
+	+	19	16
+	+	30	5
+
+> ~/practica-shell-script/ejercicio12-a
+	*	1665275424	0
+	"	1	0
+	^	4	14
+	.	4	14
+	+	3	72
+	+	4	14
+
+> ~/practica-shell-script/mostrar.sh
+	*	1665174371	0
+	"	17	30
+	^	17	31
+	.	16	40
+	+	7	26
+	+	8	0
+	+	17	31
+	+	18	0
+	+	12	39
+	+	15	18
+	+	16	6
+	+	15	18
+	+	16	40
+
+> ~/practica-shell-script/mostrar
+	*	1665171472	0
+	"	1	0
+
+> /home/19285-7
+	*	1664289017	0
+	"	1	0
+
+> /home/LEAME
+	*	1664280945	0
+	"	1	49
+	^	1	50
+	.	1	24
+	+	1	24
+
+> /etc/adduser.conf
+	*	1664277390	0
+	"	85	0
+
+> usr/local/sbin/adduser.conf
+	*	1664277324	0
+	"	1	0
+
+> /home/guille/donde
+	*	1664204602	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /home/guille/xxxx
+	*	1664203328	0
+	"	1	0
+
+> /home/guille/procesos
+	*	1664201937	0
+	"	84	0
+
+> /etc/inittab
+	*	1662744921	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> /etc/init.d/apparmor
+	*	1662744759	0
+	"	1	0
